@@ -123,7 +123,7 @@ class MovieTicketApp
         {
             Console.WriteLine("No Discount Applied");
         }
-        Console.WriteLine($"Final Price: €{finalPrice}");
+        Console.WriteLine($"Final Price: {finalPrice}euro");
         Console.WriteLine("\nThank you for your purchase!");
     }
 }
