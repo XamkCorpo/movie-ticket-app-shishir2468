@@ -72,7 +72,8 @@ class MovieTicketApp
             }
         }
 
-        // Discount Code
+        // Discount Code 
+        //re try
         finalPrice = price;
         while (true)
         {
