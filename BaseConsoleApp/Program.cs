@@ -73,7 +73,7 @@ class MovieTicketApp
         }
 
         // Discount Code 
-        //re try
+        //re try the file
         finalPrice = price;
         while (true)
         {
